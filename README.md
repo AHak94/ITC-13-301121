@@ -1,4 +1,4 @@
-## align="center"><project-name>
+## Project-name
 
 <p align="center"><project-description></p>
 
