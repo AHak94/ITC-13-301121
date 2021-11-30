@@ -1,5 +1,3 @@
-##Project-name
-
 ## Project-name
 
 ##project-description
