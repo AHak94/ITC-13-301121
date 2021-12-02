@@ -1,4 +1,4 @@
-To create a new orphan branch 
+To create a new orphan branch.
 "git checkout --orphan <branchname>"
 We have a branch without parent 
 
