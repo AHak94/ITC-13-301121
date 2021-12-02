@@ -1,9 +1,0 @@
-git checkout <branchname> - switch to branch
-git checkout -b <branchname> - create <branchname> branch
-git fetch --all - to check out a remote branch, you have first to fetch the contents of the branch
-git checkout <remotebranch>  - switched to edited branch from master branch
-git checkout -d <branchname> - delete branch or -D
-git chekout <commithash> - switch Head to ...
-git checkout --orphan <new_branch> - create orphan branch
-git checkout <TAG> - switch Head to tag
-git checkout <filename>
