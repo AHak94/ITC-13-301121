@@ -1,6 +1,6 @@
 #!/bin/bash
 
-chars="/-\|"
+#chars="/-\|"
 
 while :; do
   for (( i=0; i<${#chars}; i++ )); do
